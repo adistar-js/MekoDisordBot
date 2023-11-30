@@ -1,26 +1,26 @@
 # Meko Discord Bot - Privacy Policy
 
-This Privacy Policy describes how personal information is collected, used, and disclosed when you use the Meko Discord bot ("the Bot") and the associated services provided by the developer.
+This document outlines the privacy policy for the Discord bot ("Meko") and its associated services provided by the developer.
 
 ## Information Collected
 
 The Bot may collect the following types of information:
 
-- **Discord User ID**: This is used to uniquely identify users and provide personalized services.
+- **Discord User ID:** Utilized for unique user identification, managing AFK status, and user preferences.
 
-- **Server Information**: The Bot may collect information about the Discord servers it is a member of, including server ID, name, and member list. This information is used for server-specific functionalities.
+- **Server Information:** Data about Discord servers, including server ID, name, and member list, for server-specific functionalities like welcome messages, automod settings, and module interactions requiring server-specific details.
 
-- **Usage Data**: The Bot may collect data on how it is used, including commands executed, messages sent, and interactions within Discord servers.
+- **Usage Data:** Collected to understand Bot usage patterns, including executed commands, sent messages, and interactions within Discord servers.
 
 ## Use of Information
 
-The information collected is used for the following purposes:
+The collected information is used for the following purposes:
 
-- **Providing Services**: To provide and maintain the Bot's functionality and services.
+- **Providing Services:** Maintaining and delivering Bot functionalities, managing AFK status, welcome messages, and facilitating other module functionalities.
 
-- **Improvement and Development**: To understand how users interact with the Bot and make improvements.
+- **Improvement and Development:** Enhancing Bot performance, improving user experience, and developing additional features based on user interactions.
 
-- **Communication**: To respond to user inquiries, provide support, and communicate important information.
+- **Communication:** Addressing user inquiries, providing support, and sharing essential information regarding Bot usage.
 
 ## Data Sharing
 
@@ -28,20 +28,20 @@ The developer does not share personal information with third parties unless requ
 
 ## Data Security
 
-The developer takes reasonable precautions to protect the information collected. However, no method of transmission over the internet or electronic storage is entirely secure.
+While reasonable precautions are taken to protect collected information, complete security over internet transmission or electronic storage cannot be guaranteed.
 
 ## Data Retention
 
-The developer will retain user data only for as long as necessary to provide services. User data may be deleted upon request.
+User data is retained only as long as necessary to provide services and may be deleted upon user request.
 
 ## Children's Privacy
 
-The Bot is not intended for use by individuals under the age of 13. If you believe that a child has provided personal information, please contact the developer.
+The Bot is not intended for individuals under the age of 13. If you suspect a child has provided personal information, please contact the developer.
 
 ## Changes to this Privacy Policy
 
-The developer may update this Privacy Policy from time to time. Any changes will be effective immediately upon posting.
+This Privacy Policy may undergo updates periodically. Any alterations become effective immediately upon posting.
 
 ## Contact Us
 
-For any questions or concerns about this Privacy Policy, please contact the developer at [https://discord.gg/CfGJ2dEFnm].
+For inquiries or concerns regarding this Privacy Policy, please contact the developer at [Support](https://discord.gg/CfGJ2dEFnm).
